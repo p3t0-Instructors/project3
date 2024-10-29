@@ -5,7 +5,7 @@ const About = () => {
     <div>
       <Jumbotron>
         <h1>ABOUT</h1>
-        <p>All about the creators of this project</p>
+        <p>Awesome Instructors</p>
       </Jumbotron>
     </div>
   );
